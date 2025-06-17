@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ra-diploma/static/css/main.39877411.css",
-    "main.js": "/ra-diploma/static/js/main.cb718854.js",
-    "static/js/453.d850772c.chunk.js": "/ra-diploma/static/js/453.d850772c.chunk.js",
-    "static/media/banner.jpg": "/ra-diploma/static/media/banner.5fd2c60d58a8686daee0.jpg",
-    "static/media/footer-sprite.png": "/ra-diploma/static/media/footer-sprite.b3d5697aeb76ce9f8002.png",
-    "index.html": "/ra-diploma/index.html",
-    "main.39877411.css.map": "/ra-diploma/static/css/main.39877411.css.map",
-    "main.cb718854.js.map": "/ra-diploma/static/js/main.cb718854.js.map",
-    "453.d850772c.chunk.js.map": "/ra-diploma/static/js/453.d850772c.chunk.js.map"
+    "main.css": "/static/css/main.fb8fdee6.css",
+    "main.js": "/static/js/main.6a708696.js",
+    "static/js/453.d850772c.chunk.js": "/static/js/453.d850772c.chunk.js",
+    "static/media/banner.jpg": "/static/media/banner.5fd2c60d58a8686daee0.jpg",
+    "static/media/footer-sprite.png": "/static/media/footer-sprite.b3d5697aeb76ce9f8002.png",
+    "index.html": "/index.html",
+    "main.fb8fdee6.css.map": "/static/css/main.fb8fdee6.css.map",
+    "main.6a708696.js.map": "/static/js/main.6a708696.js.map",
+    "453.d850772c.chunk.js.map": "/static/js/453.d850772c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39877411.css",
-    "static/js/main.cb718854.js"
+    "static/css/main.fb8fdee6.css",
+    "static/js/main.6a708696.js"
   ]
 }
